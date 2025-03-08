@@ -1,5 +1,5 @@
 # Homelessness Analysis in North America
-Interactive dashboard with quantitative graphs to effectively visualize datasets
+An interactive dashboard in Jupyter Notebook with various quantitative graphs to draw business insights and analyze patterns for the homeless population in America vs Canada datasets to raise social awareness and empathy. In this project, I have gained different skills such as data manipulation, data visualization, and statistical analysis techniques, working within virtual and augmented reality workspace.
 
 ### Imported Libraries:
 Pandas, NumPy, and Plotly
@@ -10,8 +10,9 @@ Python, React.js, C#
 ### Visualization tools:
 Jupyter Notebook, d3 Grapgh, Unity3D
 
+
 ## Data Source:
-US- https://www.hudexchange.info/resource/6802/2022-ahar-part-1-pit-estimates-of-homelessness-in-the-us/
+US - https://www.hudexchange.info/resource/6802/2022-ahar-part-1-pit-estimates-of-homelessness-in-the-us/
 
 Canada - https://www.infrastructure.gc.ca/homelessness-sans-abri/reports-rapports/shelter-study-national-etude-refuge-2005-2016-highlights-eng.html#f2
 
